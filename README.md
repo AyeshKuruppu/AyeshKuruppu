@@ -14,59 +14,20 @@
 
 🎓 B.Sc (Hons) in Information Technology Student at **The Open University of Sri Lanka**
 
-💻 Passionate about Web Development
+💻 Passionate about Networking
 
 🌱 Currently learning
 
-- React.js
-- Node.js
-- Java
-- MongoDB
-- Full Stack Development
+- Object Otiented Programming
+- Data Structurea and Algorithm
+- Prolog
+- Computer Networks
+- Cryptography
+
 
 🎯 Goal
 
-Become a Professional Full Stack Web Developer
-
-⚡ Fun Fact
-
-> I love building beautiful websites and solving programming problems.
-
----
-
-# 🚀 Tech Stack
-
-### Programming Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-
-</p>
-
-### Frameworks & Libraries
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" />
-
-</p>
-
-### Database
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-</p>
-
-### Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
-
-</p>
+Become a Network Engineer
 
 ---
 
@@ -82,7 +43,7 @@ Become a Professional Full Stack Web Developer
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:ayesh2023ugc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
