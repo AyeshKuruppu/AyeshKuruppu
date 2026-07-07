@@ -1,25 +1,169 @@
-<h1 align="center">Hi 👋, I'm Ayesh Kuruppu</h1>
+<div align="center">
 
+# Hi 👋 I'm Ayesh Kuruppu
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshkuruppu&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshkuruppu" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=B.Sc+Hons+IT+Student;Frontend+Web+Developer;Java+Programmer;React+Developer;Always+Learning+New+Things!" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshkuruppu" alt="ayeshkuruppu" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=ayeshkuruppu&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
+---
 
+# 👨‍💻 About Me
 
-- 🌱 I’m currently studying **B.Sc Hon's IT Open University Sri Lanka**
+🎓 B.Sc (Hons) in Information Technology Student at **The Open University of Sri Lanka**
 
-<h3 align="left">Connect with me:</h3>
+💻 Passionate about Web Development
+
+🌱 Currently learning
+
+- React.js
+- Node.js
+- Java
+- MongoDB
+- Full Stack Development
+
+🎯 Goal
+
+Become a Professional Full Stack Web Developer
+
+⚡ Fun Fact
+
+> I love building beautiful websites and solving programming problems.
+
+---
+
+# 🚀 Tech Stack
+
+### Programming Languages
+
 <p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Frameworks & Libraries
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshkuruppu&show_icons=true&locale=en&layout=compact" alt="ayeshkuruppu" /></p>
+<p align="left">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshkuruppu&show_icons=true&locale=en" alt="ayeshkuruppu" /></p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshkuruppu&" alt="ayeshkuruppu" /></p>
+</p>
+
+### Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</p>
+
+### Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/ayeshkuruppu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayeshkuruppu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshkuruppu&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshkuruppu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayeshkuruppu&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshkuruppu&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions to generate this automatically.
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ☕ Support Me
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## Thanks for visiting ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</div>
