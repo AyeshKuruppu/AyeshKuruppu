@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Ayesh Kuruppu
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=B.Sc+Hons+IT+Student;Frontend+Web+Developer;Java+Programmer;React+Developer;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=B.Sc+Hons+Passionate in Network Engeneering+IT+Student;Java+Programmer;Always+Learning+New+Things!" />
 
 <img src="https://komarev.com/ghpvc/?username=ayeshkuruppu&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
