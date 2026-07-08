@@ -19,8 +19,7 @@
 
 💻 Interested in
 
-- Computer Networks
-- Network Security
+- Computer Networking
 - Java Programming
 - Python Programming
 - Problem Solving
