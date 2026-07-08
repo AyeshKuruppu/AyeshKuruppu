@@ -79,7 +79,7 @@ Become a **Professional Network Engineer** and specialize in **Network Security 
 </a>
 
 <!-- Replace with your LinkedIn URL -->
-<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ayesh-iroshan-b34979344?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/ayesh-iroshan-b34979344/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
