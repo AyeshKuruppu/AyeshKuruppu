@@ -34,7 +34,7 @@
 
 🎯 **Career Goal**
 
-Become a **Professional Network Engineer** and specialize in **Network Security & Cloud Networking**.
+Become a **Professional Network Engineer**.
 
 ---
 
