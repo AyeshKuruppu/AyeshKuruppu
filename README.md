@@ -47,19 +47,6 @@ My main career goal is to become a **Network Engineer**, while also developing m
 
 ---
 
-## 🌱 Currently Learning
-
-```text
-🌐 Computer Networking
-🔌 Network Engineering
-☕ Advanced Java
-🐍 Python Programming
-🐧 Linux & Networking Tools
-🔐 Network Security
-📚 New Technologies & IT Concepts
-```
-
----
 
 ## 🎯 Career Goal
 
@@ -87,15 +74,15 @@ I believe that networking and programming complement each other, so I'm continuo
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="ayesh2023ugc@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/ayesh-iroshan-b34979344">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AyeshKuruppu">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
